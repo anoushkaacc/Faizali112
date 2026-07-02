@@ -36,7 +36,7 @@ Engineered a low-latency alert communication system for autonomous rovers using 
 ## Projects
 
 **MeetScribe AI — Autonomous Meeting Assistant**
-[![GitHub](https://img.shields.io/badge/GitHub-MeetScribe--AI-181717?style=flat-square&logo=github)](https://github.com/Faizali112)
+[![GitHub](https://img.shields.io/badge/GitHub-MeetScribe--AI-181717?style=flat-square&logo=github)](https://meetscribe12.dpdns.org/)
 
 Architected a serverless backend on GCP Cloud Functions to automate transcription for professional meetings. Integrated Gemini 2.0 Flash Lite for key decision and action item extraction, delivering professional PDF reports via SMTP at 99%+ accuracy. Used Groq's high-speed inference to scale transcription throughput by **20x** with minimal latency.
 
@@ -49,7 +49,7 @@ Architected a serverless backend on GCP Cloud Functions to automate transcriptio
 <br>
 
 **IrrigationAlert — Smart Agricultural Alert System**
-[![GitHub](https://img.shields.io/badge/GitHub-IrrigationAlert-181717?style=flat-square&logo=github)](https://github.com/Faizali112)
+[![GitHub](https://img.shields.io/badge/GitHub-IrrigationAlert-181717?style=flat-square&logo=github)](https://github.com/Faizali112/alertapp-for-irrigation-field.git)
 
 Built a real-time Android alert system deployed across **2000+ sq. metres** of paddy field testing, enabling autonomous rover–farmer communication for rapid issue detection. Implemented WebSocket-based push notifications with timestamped alerts and dismissal functionality. Optimised UI for low-end Android devices, reducing app load time by **40%** under rural network conditions.
 
